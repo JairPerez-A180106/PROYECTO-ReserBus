@@ -1,13 +1,12 @@
 ﻿<div class="text-center">
     <div style=" background: url(img/transporte_tuxtla.jpg);">
-    <br> <br> <br> <br>
-    <div style="background-color: rgb(23, 27, 27);opacity: 0.2; filter: alpha(opacity=20); ">
-    <div style="opacity:1; color:black;  width: 90%;";>
-    <h2 class="display-4">Viaja de manera mas sencilla con boletos desde tu movil</h2>
-    <p>Viajamos contigo en nuestras líneas de autobuses para llevarte a donde desees, en tod nuestro bello estado Chiapaneco. </p>
-    </div>
-    </div>
-    <br> <br> <br> <br>
+        <br> <br> <br> <br>
+        <div style="background-color: rgba(28, 31, 31, 0.5);">
+            <h1 style="color:white;">Viaja de manera mas sencilla con boletos desde tu movil</h1>
+            <h3 style="color:white;">Viajamos contigo en nuestras líneas de autobuses para llevarte a donde desees, en tod nuestro bello estado Chiapaneco. </h3>
+         
+        </div>
+        <br> <br> <br> <br>
     </div>
     <hr>
     <div class="row"> 

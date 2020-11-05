@@ -16,30 +16,32 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
-                <img src="img/logo.png" style="width: 12%; height: 5%;" />
-                <a class="navbar-brand" href="index.php">Inicio</a>
+                
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
-                    <ul class="navbar-nav flex-row w-100">
-                        <li class="nav-item px-4">
-                            <button class="btn btn-outline-success" type="button" style="color: #fff; background-color: #1b6ec2; border-color: #1861ac;">Iniciar Sesión</button>
-                        </li>
-                        <li class="nav-item px-2 mr-auto">
-                            <button class="btn btn-outline-success" type="button" style="color: #fff; background-color: #1b6ec2; border-color: #1861ac;">Registrarse</button>
+                <ul class="navbar-nav flex-row  ml-auto">
+                        <li class="nav-item ">
+                                <button class="btn btn-primary btn-lg" type="button" style="color: #fff; background-color: #1b6ec2; border-color: #1861ac;">Registrarse</button>
+                            </li>
+                        <li class="nav-item">
+                                <button class="btn btn-primary btn-lg" type="button" style="color: #fff; background-color: #1b6ec2; border-color: #1861ac; POSITION: absolute; ">Iniciar Sesión</button>
                         </li>
                     </ul>
-                    <ul class="navbar-nav flex-row  w-100">
-                        <li class="nav-item px-1">
-                            <a class="nav-link" href="#" >Reservación</a>
+                    
+                    <a class="navbar-brand" href="index.php" style="margin:0; padding-right: 0px; margin-right: 0px; width: 15%;"><img src="img/logo.png" style="width: 100%; height: 10%; margin:0; padding:0;" /></a>
+                    
+                    <ul class="navbar-nav flex-row mr-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#" style="font-size: 1.3em" >Reservación</a>
                         </li>
-                        <li class="nav-item px-1">
+                        <li class="nav-item" style="font-size: 1.3em">
                             <a class="nav-link" href="#">Terminales</a>
                         </li>
-                        <li class="nav-item px-1">
-                            <a class="nav-link" href="#">Acerca de</a>
+                        <li class="nav-item" style="font-size: 1.3em">
+                            <a class="nav-link"  style="POSITION: absolute;" href="#">Acerca de</a>
                         </li>
                     </ul>
                     
